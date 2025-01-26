@@ -1610,7 +1610,7 @@ plt.show()
 
 
     
-![png](output_34_1.png)
+![png](images/output_34_1.png)
     
 
 
@@ -1628,7 +1628,7 @@ plt.show()
 
 
     
-![png](output_36_0.png)
+![png](images/output_36_0.png)
     
 
 
@@ -1647,7 +1647,7 @@ data.drop(['Age Group'], axis=1, inplace=True)
 
 
     
-![png](output_37_0.png)
+![png](images/output_37_0.png)
     
 
 
@@ -1670,7 +1670,7 @@ plt.show()
 
 
     
-![png](output_39_1.png)
+![png](images/output_39_1.png)
     
 
 
@@ -1686,7 +1686,7 @@ plt.show()
 
 
     
-![png](output_41_0.png)
+![png](images/output_41_0.png)
     
 
 
@@ -1734,7 +1734,7 @@ plt.show()
 
 
     
-![png](output_43_0.png)
+![png](images/output_43_0.png)
     
 
 
@@ -1756,7 +1756,7 @@ plt.show()
 
 
     
-![png](output_45_0.png)
+![png](images/output_45_0.png)
     
 
 
@@ -1779,7 +1779,7 @@ plt.show()
 
 
     
-![png](output_47_0.png)
+![png](images/output_47_0.png)
     
 
 
@@ -1796,7 +1796,7 @@ plt.show()
 
 
     
-![png](output_49_0.png)
+![png](images/output_49_0.png)
     
 
 
@@ -1817,7 +1817,7 @@ plt.show()
 
 
     
-![png](output_51_0.png)
+![png](images/output_51_0.png)
     
 
 
@@ -1834,7 +1834,7 @@ plt.show()
 
 
     
-![png](output_53_0.png)
+![png](images/output_53_0.png)
     
 
 
