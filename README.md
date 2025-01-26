@@ -6,7 +6,7 @@ In the highly competitive telecommunications industry, understanding the factors
 1. **Title Page**:
    - Title: Customer Churn Analysis in Telecom Industry
    - Subtitle: Insights from Customer Data Analysis
-   - Date: [Insert Date]
+   - Date: 4th of August, 2024
    - Author: Swastik Tripathi
 <hr>
 
